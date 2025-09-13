@@ -1,8 +1,6 @@
 tls://cloudflare-dns.com:853
 tls://dns.google:853
 tls://dns.quad9.net:853
-tls://cloudflare-dns.com:853
-tls://dns.google:853
-tls://cdns.comodo.com:853
-tls://8.8.4.4:853
+tls://dns.adguard.com:853
 tls://max.rethinkdns.com:853
+tls://dns.alidns.com:853
