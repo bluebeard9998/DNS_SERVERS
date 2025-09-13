@@ -1,1 +1,10 @@
-
+quic://dns.adguard.com
+quic://dns.google
+quic://dns.adguard-dns.com
+quic://family.adguard-dns.com
+quic://unfiltered.adguard-dns.com
+quic://dns.futuredns.me
+quic://doh.tiar.app
+quic://dandelionsprout.asuscomm.com:48582
+quic://x-goodbyeads.freedns.controld.com
+quic://dns.alidns.com
