@@ -1,3 +1,5 @@
+quic://1.1.1.1:784@dns.cloudflare.com
+quic://dns.adguard-dns.com:784
 quic://dns.adguard.com
 quic://dns.google
 quic://dns.adguard-dns.com
