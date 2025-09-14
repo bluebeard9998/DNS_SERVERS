@@ -1,4 +1,4 @@
-tls://cloudflare-dns.com:853
+tls://1.1.1.1@cloudflare-dns.com
 tls://dns.google:853
 tls://dns.quad9.net:853
 tls://dns.adguard.com:853
